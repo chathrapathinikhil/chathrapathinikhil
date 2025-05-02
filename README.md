@@ -56,6 +56,13 @@ Clinic appointment system with real-time availability and email confirmations.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathrapathinikhil&theme=react&hide_border=true" />
 </p>
 
+## 🕹️ Worokanoid – Break the Commits!
+
+> Every green block = a past commit. Smash them with your new ideas 💡
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chathrapathinikhil&bg_color=000000&color=32de84&line=00ff00&point=00ff00&area=true&hide_border=true)](https://github.com/chathrapathinikhil)
+
+
 ---
 
 ### 📬 Connect With Me
