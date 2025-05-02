@@ -1,60 +1,68 @@
-# 👋 Hi, I'm Chathrapathi Nikhil Kandagatla
+<h1 align="center">Hi, I'm Nikhil 👋</h1>
 
-🎓 Master's in Computer Science @ California State University, Fullerton  
-💻 Software Developer | Full-Stack Engineer | Productivity App Builder  
-📍 Based in California | Open to full-time opportunities
-
----
-
-## 🧑‍💻 About Me
-
-I’m a developer who enjoys building real-world, impactful applications—from productivity tools to web extensions. I have 2+ years of experience working on scalable front-end systems and full-stack solutions. My work combines performance, accessibility, and intuitive design.
-
-- 🔍 Currently working on: Building a H1B sponsorship insights web extension to help international students
-- 🧠 Interested in: Web Extensions, AI Tools, Real-Time Interfaces, Chrome APIs  
-- 🔐 Experience with secure auth flows using Firebase and Google APIs  
-- 🤝 Collaborated on team projects using Git, Agile, and RESTful APIs  
-- 🌱 Learning: LangChain, CI/CD automation, and advanced system design  
+<p align="center">
+  <b>Full-Stack Developer | UI Enthusiast | Problem Solver</b><br/>
+  <i>Turning complex ideas into impactful digital tools</i>
+</p>
 
 ---
 
-## 🚀 Projects
+### 💡 About Me
 
-### 🔹 [Worodoro](https://github.com/chathrapathinikhil/Workodoro)  
-A Flutter-based enhanced Pomodoro timer that includes task tracking, productivity stats, and customizable focus cycles.
-
-### 🔹 [H1BSpons Chrome Extension](https://github.com/chathrapathinikhil/H1BSpons)  
-Visualizes H-1B sponsorship history, company news, resume keyword analysis, and more—directly inside job listings.
-
-### 🔹 [QuickCare Booking System]  
-C#/.NET project for appointment scheduling with real-time doctor availability and automated email confirmations.
+- 🎓 Master's in CS @ CSUF  
+- 💻 Built multiple real-world projects with React, Node, and Flutter  
+- 🔍 Currently working on: **Worodoro** (custom Pomodoro app)  
+- 🌍 Passionate about productivity tools, web extensions, and developer experience  
+- 🚀 Open to full-time software engineering roles
 
 ---
 
-## 🛠 Tech Stack
+### 🔧 Tech Stack
 
-**Languages**:  
+**Languages:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
 
-**Frameworks & Tools**:  
+**Frameworks & Tools:**  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ---
 
-## 📫 Let's Connect
+### 🛠️ Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chathrapathinikhilk/)
-📬 chathrapathinikhilk@gmail.com
+📌 **[Worodoro](https://github.com/chathrapathinikhil/Workodoro)**  
+Enhanced Pomodoro timer app with task tracking, productivity insights, and cross-platform UI (Flutter).
+
+📌 **[H1BSpons Chrome Extension](https://github.com/chathrapathinikhil/H1BSpons)**  
+Overlay H1B sponsorship and tech stack info directly into job listings using a browser extension.
+
+📌 **QuickCare Booking (C#/.NET)**  
+Clinic appointment system with real-time availability and email confirmations.
 
 ---
 
-_“Always learning. Always building.”_
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chathrapathinikhil&show_icons=true&theme=react&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathrapathinikhil&theme=react&hide_border=true" />
+</p>
+
+---
+
+### 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/chathrapathinikhilk)
+[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:chathrapathinikhilk@gmail.com)
+
+---
+
+⭐ _"Always building. Always improving."_  
