@@ -48,13 +48,8 @@ Clinic appointment system with real-time availability and email confirmations.
 
 ---
 
-### 📊 GitHub Stats
+🎮 [Play Worokanoid – My GitHub Commit Arkanoid Game](https://chathrapathinikhil.github.io/worokanoid)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chathrapathinikhil&show_icons=true&theme=react&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathrapathinikhil&theme=react&hide_border=true" />
-</p>
 
 ## 🕹️ Worokanoid – Break the Commits!
 
