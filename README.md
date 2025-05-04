@@ -33,21 +33,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
----
-
-### 🛠️ Featured Projects
-
-📌 **[Worodoro](https://github.com/chathrapathinikhil/Workodoro)**  
-Enhanced Pomodoro timer app with task tracking, productivity insights, and cross-platform UI (Flutter).
-
-📌 **[H1BSpons Chrome Extension](https://github.com/chathrapathinikhil/H1BSpons)**  
-Overlay H1B sponsorship and tech stack info directly into job listings using a browser extension.
-
-📌 **QuickCare Booking (C#/.NET)**  
-Clinic appointment system with real-time availability and email confirmations.
-
----
-
 ### 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/chathrapathinikhilk)
