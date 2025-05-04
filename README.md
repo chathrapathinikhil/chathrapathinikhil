@@ -11,7 +11,7 @@
 
 - 🎓 Master's in CS @ CSUF  
 - 💻 Built multiple real-world projects with React, Node, and Flutter  
-- 🔍 Currently working on: H1b sponsorship web extensiion soon to bbe launched on chrome store 
+- 🔍 Currently working on: H1b sponsorship web extensiion soon to be launched on chrome store 
 - 🌍 Passionate about productivity tools, web extensions, and developer experience  
 - 🚀 Open to full-time software engineering roles
 
