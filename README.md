@@ -11,7 +11,7 @@
 
 - 🎓 Master's in CS @ CSUF  
 - 💻 Built multiple real-world projects with React, Node, and Flutter  
-- 🔍 Currently working on: **Worodoro** (custom Pomodoro app)  
+- 🔍 Currently working on: H1b sponsorship web extensiion soon to bbe launched on chrome store 
 - 🌍 Passionate about productivity tools, web extensions, and developer experience  
 - 🚀 Open to full-time software engineering roles
 
@@ -45,28 +45,6 @@ Overlay H1B sponsorship and tech stack info directly into job listings using a b
 
 📌 **QuickCare Booking (C#/.NET)**  
 Clinic appointment system with real-time availability and email confirmations.
-
----
-
-## 🕹️ Worokanoid – Break the Commits!
-
-```text
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-
-                 🟦
-                ⬛⬛⬛
-
-
-
-## 🕹️ Worokanoid – Break the Commits!
-
-> Every green block = a past commit. Smash them with your new ideas 💡
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chathrapathinikhil&bg_color=000000&color=32de84&line=00ff00&point=00ff00&area=true&hide_border=true)](https://github.com/chathrapathinikhil)
-
 
 ---
 
